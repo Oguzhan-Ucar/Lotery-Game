@@ -1,4 +1,4 @@
-Lotery Game
+# Lotery Game
 
 JavaScript practise
 
